@@ -61,8 +61,8 @@ artwork: "https://github.com/cncf/artwork/blob/main/examples/sandbox_k.md#konvey
 
 
 
- package_managers:
-   quay: "https://quay.io/organization/konveyor"
+package_managers:
+  quay: "https://quay.io/organization/konveyor"
 
 social:
   twitter: "https://twitter.com/Konveyor_io"
